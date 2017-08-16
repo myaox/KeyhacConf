@@ -1,0 +1,1 @@
+/Users/nx3/Library/Application Support/Keyhac/config.py
